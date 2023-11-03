@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: greenbutton
+Version: 0.1
+Summary: Parse "Green Button" XML file into Python objects
+Home-page: https://github.com/asciiphil/greenbutton-python
+Author: Phil! Gold
+Author-email: phil_g@pobox.com
+License: Apache License, Version 2.0
+License-File: LICENSE
+License-File: NOTICE
